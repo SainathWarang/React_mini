@@ -1,5 +1,6 @@
 #commands for pushing code to vs studio code below:
-git clone --single-branch --branch
+1.git clone --single-branch --branch <branch_name> <remote_link> .
+2.npm install
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
